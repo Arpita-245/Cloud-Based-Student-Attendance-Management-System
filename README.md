@@ -1,6 +1,6 @@
 # Cloud-Based Student Attendance Management System
 
-l.
+
 
 ## Features
 
