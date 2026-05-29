@@ -1,6 +1,6 @@
 # Cloud-Based Student Attendance Management System
 
-A beginner-friendly Flask mini-project to manage student attendance with separate login areas for admin, teacher, and student users. The system uses SQLite for storage, Bootstrap 5 for the interface, and session-based authentication with role-based access control.
+l.
 
 ## Features
 
